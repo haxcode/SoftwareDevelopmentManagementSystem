@@ -1,0 +1,12 @@
+{
+    "name": "rkubica/sdms",
+    "description": "Software development management system",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Robert Kubica",
+            "email": "robert@kubica.dev"
+        }
+    ],
+    "require": {}
+}
